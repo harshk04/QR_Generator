@@ -2,6 +2,11 @@
 
 QR Code Generator with Tkinter is a Python project that allows you to generate QR codes from input links and display them on the screen. The project uses the Tkinter library to provide a graphical user interface (GUI) for a seamless user experience.
 
+## 📌 Images of Program
+<img width="500" alt="Screenshot 2023-06-14 at 2 03 33 PM" src="https://github.com/harshk04/QR_Generator/assets/115946158/3d1b31e2-ad7d-43af-aa37-6890d6b09baa">
+<img width="501" alt="Screenshot 2023-06-14 at 2 03 47 PM" src="https://github.com/harshk04/QR_Generator/assets/115946158/7c6ad466-396c-45bc-b717-f7291631ecf6">
+
+
 ## 📌 Features
 **QR code generation:** The project generates QR codes from input links.
 
