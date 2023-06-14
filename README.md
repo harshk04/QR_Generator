@@ -2,14 +2,14 @@
 
 QR Code Generator with Tkinter is a Python project that allows you to generate QR codes from input links and display them on the screen. The project uses the Tkinter library to provide a graphical user interface (GUI) for a seamless user experience.
 
-## Features
+## 📌 Features
 **QR code generation:** The project generates QR codes from input links.
 
 **GUI interface:** The Tkinter-based GUI allows for easy input and display of the generated QR codes.
 
 **Save and display:** The generated QR codes can be saved to a specified location and displayed on the screen simultaneously.
 
-## Dependencies
+## 📌 Dependencies
 To run the QR Code Generator with Tkinter, you need the following dependencies:
 
 1. Python (version 3.7 or higher)
@@ -30,7 +30,7 @@ You can install the required dependencies by running the following command:
 `pip install tkinter`
 
 
-## Usage
+## 📌 Usage
 To use the QR Code Generator with Tkinter, follow these steps:
 
 Clone the repository to your local machine:
@@ -49,7 +49,7 @@ The generated QR code will be displayed on the screen. It will also be saved in 
 You can generate and display multiple QR codes by repeating these steps.
 
 
-## Customization
+## 📌 Customization
 The QR Code Generator with Tkinter offers customization options to suit your preferences. Here are a few customization possibilities:
 
 **QR code size:** Adjust the size of the generated QR codes by modifying the relevant parameters in the code.
@@ -60,16 +60,27 @@ The QR Code Generator with Tkinter offers customization options to suit your pre
 
 Feel free to explore these customization options to create a QR code generator that fits your specific requirements.
 
-## Contributing
+## 📌 Contributing
 Contributions to the QR Code Generator with Tkinter project are welcome! If you encounter any issues, have suggestions for improvements, or want to contribute new features, please open an issue or submit a pull request on the repository.
 
 When contributing, please follow the coding conventions, maintain code quality, and include relevant documentation and test cases for new features or bug fixes.
 
-## License
+## 📌 License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code as per the terms of this license.
 
-## Acknowledgments
+## 📌 Acknowledgments
 
 The QR Code Generator with Tkinter project is built using Python, utilizing the qrcode library for generating QR codes, Pillow for image handling, and Tkinter for the GUI.
 
 I acknowledge the open-source community for providing resources and inspiration for QR code generation and GUI development.
+
+
+## 📬 Contact Me
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pushpak-kumawat-b4bb921ba/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
+© 2023 Harsh
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
